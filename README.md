@@ -1,6 +1,6 @@
 # Chinese text recognition
 
-This repo trained Chinese text recognition model\. **The model is designed for Chinese text recognition of single line and is suitable for scene, web and document data. It may not works well with handwriting data . For multiple lines text image, You need to use a text detector. **
+This repo trained Chinese text recognition model\. **The model is designed for Chinese text recognition of single line and is suitable for scene, web and document data. It may not works well with handwriting data . For multiple lines text image, You need to use a text detector\. **
 
 |          | ACC/NED       |
 | -------- | ------------- |
